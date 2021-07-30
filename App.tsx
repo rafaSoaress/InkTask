@@ -14,6 +14,7 @@ export default function App() {
           {/* Here is where taks will go! */}
           <Task text={"Task 1"} />
           <Task text={"Task 2"} />
+          <Text> hello world </Text>
         </View>
       </View>
 
